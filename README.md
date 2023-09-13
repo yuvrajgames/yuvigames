@@ -1,2 +1,0 @@
-# yuvigames
-games by mayank
